@@ -10,8 +10,6 @@ This repository contains a data science project aimed at analyzing factors assoc
 5. [Usage](#usage)
 6. [Project Flow](#project-flow)
 7. [Key Findings](#key-findings)
-8. [License](#license)
-9. [Contact](#contact)
 
 ---
 
